@@ -1,0 +1,13 @@
+Git e Github: não são a mesma coisa, mas se complimenta.
+
+No Git:
+Tem o SHA1 que é um algoritmo de encriptação.
+
+No git a alguns objetos internos como:
+
+Blobs: É o tipo de objeto usado para armazenar o conteúdo de cada arquivo em um repositório.
+
+Trees: É um conjunto de valores de índice apontando para os objetos.
+
+Commit: É usado para criar um instantâneo da alterações preparados em um cronograma de um histórico
+de projetos GIT.

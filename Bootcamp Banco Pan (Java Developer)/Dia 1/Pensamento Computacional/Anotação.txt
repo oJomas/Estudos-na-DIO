@@ -1,0 +1,37 @@
+Pensamento computacional:
+uma habilidade para resolver problemas
+e desafios de forma eficiente, assim como um computador o faria.
+
+
+Onde é baseado em 4 pilares:
+
+-Decomposição: Dividir um problema complexo em subproblemas;
+
+-Reconhecimento de padrões;
+
+-Abstração: Extrapolar o conceito de problema para uma forma mais generalizada;
+
+-Desing de algoritmo: Passo a passo para a solução.
+
+
+Processo Contínuo:
+-Definir uma solução;
+-Testar a solução;
+-Aperfeiçoamento da solução.
+
+Algoritmo:
+ que é uma sequência de instruções bem definidas, 
+normalmente usadas para resolver problemas de matemática específicos, 
+executar tarefas, ou para realizar cálculos e equações.
+
+Variáveis: Um tipo de estrutura mutável que pode varios dentro
+de um valor. Pórem ela é restrita ao seu "tipo de dado"
+
+Tipos de dados:
+-Numério: Inteiros ou reais;
+
+-Caractere: palavras escrita;
+
+-Lógico: Boleano (V/F).
+
+
